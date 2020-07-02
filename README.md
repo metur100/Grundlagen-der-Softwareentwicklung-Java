@@ -3,12 +3,11 @@
 
 Programmieren	in	Java:	
 - Elementare	und	eigene	Datentypen	
-- ImperaBve	und	objektorienBerte	Programmierung	
-- Umgang	mit	Werkzeugen:	Befehlsinterpreter	(Terminal,	Konsole),	Übersetzer	(Compiler),	Debugger,	...	
-* Algorithmen:	FunkBonsweise	und	Programmierun ausgewählter	
-Algorithmen	(z.	B.	SorBeren)		
-* Dynamische	Datenstrukturen	(eigenhändig,	als	auch Bibliotheken)	
-* Siehe	auch	„Grundlagen	der	Algorithmen	und	Datenstrukturen“	
+- Imperative	und	objektorientierte	Programmierung	
+- Umgang	mit	Werkzeugen:	Befehlsinterpreter	(Terminal,	Konsole),	Ãœbersetzer	(Compiler),	Debugger,	...	
+* Algorithmen:	Funktionsweise	und	Programmierung ausgewÃ¤hlter	Algorithmen	(z.	B.	Sortieren)		
+* Dynamische	Datenstrukturen	(eigenhÃ¤ndig,	als	auch Bibliotheken)	
+* Siehe	auch	â€Grundlagen	der	Algorithmen	und	Datenstrukturenâ€œ	
 
 
 public class Main {
